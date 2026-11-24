@@ -1,0 +1,6 @@
+zadaci = ["domaci", "ucenje", "pospremanje"]
+
+Dodajte trening na kraj liste. Zatim ubacite kupovina na drugo mjesto. 
+Uklonite ucenje tako što ćete navesti njegov naziv. 
+Na kraju promijenite prvi zadatak u domaci iz matematike. 
+Poslije svakog koraka ispišite listu da možete pratiti kako se mijenja.
